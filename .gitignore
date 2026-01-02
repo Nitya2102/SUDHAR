@@ -1,0 +1,36 @@
+# Flutter
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+
+# Android
+android/.gradle/
+android/local.properties
+android/**/build/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+
+# Web
+web/build/
+web/.dart_tool/
+
+# Desktop
+windows/build/
+windows/.dart_tool/
+macos/build/
+macos/.dart_tool/
+linux/build/
+linux/.dart_tool/
+
+# IDE
+.idea/
+.vscode/
+*.iml
